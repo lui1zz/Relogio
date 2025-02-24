@@ -1,3 +1,4 @@
+package relogio;
 public non-sealed class BRLClock extends Clock {
 
     @Override

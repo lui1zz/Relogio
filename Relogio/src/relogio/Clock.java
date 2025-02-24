@@ -1,3 +1,4 @@
+package relogio;
 public sealed abstract class Clock permits USClock, BRLClock {
     
     protected int hour;

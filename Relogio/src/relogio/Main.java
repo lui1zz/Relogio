@@ -1,3 +1,4 @@
+package relogio;
 public class Main {
     public static void main(String[] args) throws Exception {
     Clock brlclock = new BRLClock();

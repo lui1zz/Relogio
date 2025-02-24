@@ -1,3 +1,4 @@
+package relogio;
 public non-sealed class USClock extends Clock {
 
     private String periedIndicator;
